@@ -101,7 +101,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, #a8c8c0 0%, #b8d4ce 100%);
+    background: linear-gradient(135deg, #f5f1e8 0%, #f9f5ed 100%);
     padding-top: 80px;
 }
 
@@ -256,7 +256,7 @@ body {
 /* About Section */
 .about {
     padding: 6rem 0;
-    background: #a8c8c0;
+    background: #f5f1e8;
 }
 
 .about-content {
@@ -343,7 +343,7 @@ body {
 }
 
 .contact-form {
-    background: #a8c8c0;
+    background: #f5f1e8;
     padding: 2.5rem;
     border-radius: 20px;
 }
@@ -715,7 +715,7 @@ a:focus {
 /* Fees Section */
 .fees {
     padding: 6rem 0;
-    background: #a8c8c0;
+    background: #f5f1e8;
 }
 
 .fees-table {
@@ -871,23 +871,23 @@ a:focus {
 /* Page Header Styles */
 .page-header {
     padding: 120px 0 80px;
-    background: linear-gradient(135deg, #a8c8c0 0%, #b8d4ce 100%);
+    background: linear-gradient(135deg, #f5f1e8 0%, #f9f5ed 100%);
     text-align: center;
-    color: white;
+    color: #333;
 }
 
 .page-header h1 {
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 1rem;
-    color: white;
+    color: #333;
 }
 
 .page-header p {
     font-size: 1.2rem;
     max-width: 600px;
     margin: 0 auto;
-    opacity: 0.9;
+    color: #666;
 }
 
 /* Active Navigation Link */
@@ -1028,7 +1028,7 @@ a:focus {
 /* Philosophy Section */
 .philosophy {
     padding: 4rem 0;
-    background: #a8c8c0;
+    background: #f5f1e8;
 }
 
 .philosophy-quote {
@@ -1375,7 +1375,7 @@ a:focus {
 
 .value-proposition {
     padding: 4rem 0;
-    background: #a8c8c0;
+    background: #f5f1e8;
 }
 
 .value-grid {
